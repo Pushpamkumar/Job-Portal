@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Job Portal 🧑‍💼💻
 
 A full-stack Job Portal web application built with the MERN stack (MongoDB, Express, React, Node.js) that allows job seekers to apply for jobs and companies to post job openings.
@@ -66,3 +67,4 @@ Created by [pushpam kumar](https://github.com/pushpamkumar)
 ## 📄 License
 
 [MIT](LICENSE)
+
